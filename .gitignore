@@ -25,4 +25,5 @@ hs_err_pid*
 /target/
 Practico.Final.iml
 .idea
+chromedriver.exe
 
